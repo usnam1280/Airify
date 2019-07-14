@@ -5,7 +5,7 @@ A new app in flutter that is IOT based and made for get data of air with some se
 ## Feature
 <ul>
 <li> Show realtime data of Air Quality and Weather if ESP32 Based System is on.</li>
-<li> We can set the value of Air Quality for which the buzzer should be on at this minimum value. <li>
+<li> We can set the value of Air Quality for which the buzzer should be on at this minimum value. </li>
 </ul>
 
 <div class="row">

@@ -8,9 +8,19 @@ A new app in flutter that is IOT based and made for get data of air with some se
 <li> We can set the value of Air Quality for which the buzzer should be on at this minimum value. <li>
 </ul>
 
-<img src="images/HomeV.png" width="200" height="300" />
-<img src="images/HomeH.png" width="200" height="300" />
-<img src="images/ValueV.png" width="200" height="300" />
+<div class="row">
+  <div class="column">
+    <img src="images/HomeV.png" width="200" height="300" hspace="20" />
+  </div>
+  <div class="column">
+    <img src="images/HomeH.png" width="300" height="200" hspace="20" />
+  </div>
+  <div class="column">
+    <img src="images/ValueV.png" width="200" height="300" hspace="20" />
+  </div>
+</div>
+
+
 
 ## Contributing
 Contributions are welcome! However, if it's going to be a major change, please create an issue first. Before starting to work
